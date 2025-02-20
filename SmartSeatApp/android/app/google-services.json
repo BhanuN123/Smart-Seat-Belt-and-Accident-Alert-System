@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1028052494879",
+    "firebase_url": "https://esproject-73325-default-rtdb.firebaseio.com",
+    "project_id": "esproject-73325",
+    "storage_bucket": "esproject-73325.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028052494879:android:e6c75141dcec10d0c2032a",
+        "android_client_info": {
+          "package_name": "com.example.esproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1dNCIsHfXPZuQHISLE6e1DjBTpkhDOI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
